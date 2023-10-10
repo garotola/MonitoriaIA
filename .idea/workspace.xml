@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2308a60b-80e8-4d16-bcf9-60cd059dfaf9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Aprendendo IA/IA - Primeiro App.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Aprendendo IA/IA - Primeiro App.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Aprendendo IA/Perceptron/PerceptronSimples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Aprendendo IA/Perceptron/PerceptronSimples.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +19,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2WKZDRMenHcBWFfauF37UfR1dV1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "build.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696483114812</updated>
       <workItem from="1696483126041" duration="1924000" />
+      <workItem from="1696956131970" duration="711000" />
     </task>
     <servers />
   </component>
