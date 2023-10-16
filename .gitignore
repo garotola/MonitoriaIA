@@ -357,4 +357,7 @@ MigrationBackup/
 *.png
 *.jpg
 *.jpeg
+*.gz
 SavedModels/
+
+cifar-10-batches-py/
