@@ -1,0 +1,6 @@
+numpy>=1.23.3
+scikit-learn>=1.1.2
+matplotlib>=3.6.0
+pydot>=1.4.2
+jupyterlab>=3.4.8
+torch>=2.1
